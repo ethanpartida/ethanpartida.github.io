@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		".current {\n    border-style: none none solid none;\n    border-color: #6B9080\n}\n\n.sidenav {\n    height: 100%;\n    width: 140px;\n    position: fixed;\n    z-index: 1;\n    top: 0;\n    left: 0;\n    background-color: #A4C3B2;\n    overflow-x: hidden;\n    padding-top: 30px\n\n}\n\n.sidenav a {\n    padding: 4px 6px 4px 12px;\n    font-size: 20px;\n    color: white;\n    display: block;\n    text-decoration: none\n}\n\n.main {\n    margin-left: 140px;\n    padding: 0px 10px;\n    background-color: #F6FFF8\n}\n\n/* On screens that are less than 700px wide, make the sidebar into a topbar */\n@media screen and (max-width: 700px) {\n  .sidebar {\n    width: 100%;\n    height: auto;\n    position: relative;\n  }\n  .sidebar a {float: left;}\n  div.content {margin-left: 0;}\n}\n\n/* On screens that are less than 400px, display the bar vertically, instead of horizontally */\n@media screen and (max-width: 400px) {\n  .sidebar a {\n    text-align: center;\n    float: none;\n  }\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,YAAY,EAAE,oBAAoB,EAClC,YAAY,EAAE,OAClB,GAAC;;AAED,AAAA,QAAQ,CAAC,EACL,MAAM,EAAE,IAAI,EACZ,KAAK,EAAE,KAAK,EACZ,QAAQ,EAAE,KAAK,EACf,OAAO,EAAE,CAAC,EACV,GAAG,EAAE,CAAC,EACN,IAAI,EAAE,CAAC,EACP,gBAAgB,EAAE,OAAO,EACzB,UAAU,EAAE,MAAM,EAClB,WAAW,EAAE,IAEjB,GAAC;;AAED,AAAA,QAAQ,CAAC,CAAC,CAAC,EACP,OAAO,EAAE,gBAAgB,EACzB,SAAS,EAAE,IAAI,EACf,KAAK,EAAE,KAAK,EACZ,OAAO,EAAE,KAAK,EACd,eAAe,EAAE,IACrB,GAAC;;AAED,AAAA,KAAK,CAAC,EACF,WAAW,EAAE,KAAK,EAClB,OAAO,EAAE,QAAQ,EACjB,gBAAgB,EAAE,OACtB,GAAC;;AAED,8EAA8E;AAC9E,MAAM,8BACJ,GAAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,IAAI,EACZ,QAAQ,EAAE,QAAQ,GACnB,CACD,AAAA,QAAQ,CAAC,CAAC,CAAC,EAAC,KAAK,EAAE,IAAI,GAAG,CAC1B,AAAA,GAAG,AAAA,QAAQ,CAAC,EAAC,WAAW,EAAE,CAAC,GAAG,EAF7B;;AAKH,8FAA8F;AAC9F,MAAM,8BACJ,GAAA,AAAA,QAAQ,CAAC,CAAC,CAAC,EACT,UAAU,EAAE,MAAM,EAClB,KAAK,EAAE,IAAI,GACZ,EAAA"
+}
