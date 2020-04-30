@@ -3,9 +3,19 @@ layout: default
 title: category_theory
 ---
 <script language="javascript">
-    function triangle() {
-	     document.getElementById("category_game").setAttribute("usemap", "#triangle");
-	     document.getElementById("category_game").src = "/game_triangle.jpg";
+    function cat1() {
+	     document.getElementById("category_game").setAttribute("usemap", "#notHome");
+	     document.getElementById("category_game").src = "/Category-1.jpg";
+
+    }
+    function cat2() {
+             document.getElementById("category_game").setAttribute("usemap", "#notHome");
+	     document.getElementById("category_game").src = "/Category-2.jpg";
+
+    }
+    function cat3() {
+	     document.getElementById("category_game").setAttribute("usemap", "#notHome");
+	     document.getElementById("category_game").src = "/Category-3.jpg";
 
     }
     function home() {
@@ -15,11 +25,13 @@ title: category_theory
 </script>
 
 <map name="home">
-        <area target="_blank" alt="Triangle" title="Triangle" nohref coords="187,266,257,64,109,69" shape="poly" onClick="triangle()">
+    <area target="_blank" alt="What could it be????" title="What could it be????" nohref coords="45,28,364,242" shape="rect" onClick="cat1()">
+    <area target="_blank" alt="Hmm wonder what this one is..." title="Hmm wonder what this one is..." nohref coords="423,246,757,27" shape="rect" onClick="cat2()">
+    <area target="_blank" alt="Could this be it!? " title="Could this be it!? " nohref coords="424,544,752,332" shape="rect" onClick="cat3()">
 </map>
 
-<map name="triangle">
-    <area target="_blank" alt="Home" title="Home" nohref coords="527,790,431,626,255,625,343,464,251,305,420,304,530,149,629,305,806,312,723,473,803,613,625,632" shape="poly" onClick="home()">
+<map name="notHome">
+     <area target="_blank" alt="Go Back" title="Go Back" nohref coords="98,597,18,531" shape="rect" onClick="home()">
 </map>
 
 ## Category Theory
@@ -29,7 +41,7 @@ Over the spring semester of 2020 I had the
 pleasure of reading "An Invitation to Applied Category Theory"(CITE) through
 the University of Minnesota's Directed Reading Program. This was my
 first real exposure to abstract math and it was quite an eye
-opening experience. Quite surprisingly,my biggest takeaway from this reading was
+opening experience. Quite surprisingly, my biggest takeaway from this reading was
 not a complex theorem or result but a new way of thinking about
 problems. Fong and Spivak emphasize how the often overwhelming
 abstractness of category theory is its most valuable feature. This is shown by the ease at which category theory is applied to a multitude of different problems (hence the *Applied*
@@ -47,8 +59,8 @@ themselves to be applied to an almost endless supply of more concrete
 fields and give a different categorical view on those fields.
 
 
-### Click on the triangle and to do stuff
-<img src="/game_home.jpg" usemap="#home" id="category_game">
+### Click on the categories to see what they are holding
+<img src="/game_home.jpg" class="game" usemap="#home" id="category_game">
 
 Now explain cats, funcs, and above examples.
 

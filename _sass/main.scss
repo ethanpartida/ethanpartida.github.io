@@ -1,6 +1,6 @@
 .current {
     border-style: none none solid none;
-    border-color: #6B9080
+    border-color: #6B9080;
 }
 
 .sidenav {
@@ -28,6 +28,14 @@
     margin-left: 140px;
     padding: 0px 10px;
     background-color: #F6FFF8
+}
+
+.game {
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: #5B8070;
+    border-width: 5px;
 }
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
