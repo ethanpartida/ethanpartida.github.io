@@ -58,16 +58,54 @@ theory. The generality of the ideas found in category theory allow
 themselves to be applied to an almost endless supply of more concrete
 fields and give a different categorical view on those fields.
 
+A Category, C, is a mathematical structure which consists of two
+parts.  A collection of things called objects and denoted Ob(C). This
+is very much like a set, except there are special cases where this can be
+bigger due to weird set theory paradoxes. Along with this, for every 2
+objects, x and y, we specify a set hom(x,y), called the morphisms for
+x to y. This can be thought of
+kind of like functions from x to y except, you guessed it, much more
+*general*. There also has to be some notion of an identity morphisms
+and compositions of morphisms, but these are more tangental from the
+idea of a category.
+
+Of course all these defintions and words make little sense without
+examples. The framework of a category is incredibly versitile and can
+encapsulate pretty much any mathematical idea. Try clicking around
+below to see what is hiding inside these three different categories.
 
 ### Click on the categories to see what they are holding
 <img src="/game_home.jpg" class="game" usemap="#home" id="category_game">
 
-Now explain cats, funcs, and above examples.
+Since a Category is a mathematical structure, we'd like ways to
+transform one category into another. Lucky for us there is a way to do
+this, functors! In simplest terms, a functor is a a map between
+categories. It sends objects to objects and morphisms to
+morphisms. This photo from the great [Bartosz
+Milewski](https://bartoszmilewski.com/2015/01/20/functors/) sums up
+the idea of functors really great. \
+![Functors](/functor.jpeg)
+\
+As we can see there are two categories, C and D. C has objects a and b
+with a morphism f:a->b. Our functor, F, sends a->F(a), b->F(b), and
+f->F(f). Importantly, F perserved our morphisims in C and mapped them
+to D. In other words, f:a->b in C implies that there exists an
+F(f):F(a)->F(b). This notion is very important to functors and help
+them perserve cool ideas that are the foundations of cateogry theory.
 
 
 
-"Math needs frogs and birds"-[Dyson](http://www.ams.org/notices/200902/rtx090200212p.pdf) Even if your destiny is to be a frog, it
-always helps to be a frog with a periscope. WILL MAKE FANCIER BUT YAH GET THE POINT
+In a [talk]((http://www.ams.org/notices/200902/rtx090200212p.pdf)) about the history of mathematics, Freeman Dyson
+interestingly opens "Mathematics needs both birds and frogs". Birds
+view math soaring high in the sky, seeing broad concepts which unify
+all of our mathematical theories. Frogs view the nitty gritty bits of
+our mathematical world and dedicate themselves to a specific part of
+our mathematical land. Category Theory is whole heartdly a bird field
+of mathematics. In fact it might even be a [Rüppell's
+vulture](https://en.wikipedia.org/wiki/R%C3%BCppell%27s_vulture)
+field of mathematics. Regardless of this, I belive at least of working knowledge of
+category theory is essential for a career in mathematics. Because even
+if your destiny is to be a frog, it always helps to be a frog with a periscope. 
 
 ![Frog](/Frog.png)
 
