@@ -101,7 +101,7 @@ interestingly opens "Mathematics needs both birds and frogs." Birds
 view math soaring high in the sky, seeing broad concepts which unify
 all of our mathematical theories. Frogs view the nitty gritty bits of
 our mathematical world and dedicate themselves to a specific part of
-our mathematical land. Category theory is whole heartily a bird field
+our mathematical land. Category theory is wholeheartedly a bird field
 of mathematics. In fact, it might even be the [Rüppell's
 vulture](https://en.wikipedia.org/wiki/R%C3%BCppell%27s_vulture)
 field of mathematics. Regardless of this, I believe at least a working knowledge of
