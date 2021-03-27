@@ -26,8 +26,6 @@ I also enjoy creating over-engineered solutions to computer *"problems"*. Exampl
 Some things I'd Like to learn more about are: cryptography, algebraic geometry, Erhart polynomials, and geology.
 
 ## Personal Interests
-
-
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
 <div style="display: inline-block;">
 <p>
