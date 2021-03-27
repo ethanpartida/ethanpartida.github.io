@@ -1,5 +1,11 @@
 - name: Home
   link: /
 
-- name: Category Theory
-  link: /category_theory.html
+- name: Publications
+  link: /publications.html
+
+- name: Presentations
+  link: /presentation.html
+
+- name: Miscellaneous
+  link: /misc.html

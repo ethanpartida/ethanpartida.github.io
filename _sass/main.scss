@@ -5,7 +5,7 @@
 
 .sidenav {
     height: 100%;
-    width: 140px;
+    width: 160px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -25,9 +25,13 @@
 }
 
 .main {
-    margin-left: 140px;
+    margin-left: 160px;
     padding: 0px 10px;
-    background-color: #F6FFF8
+    background-color: #F6FFF8;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
 }
 
 .game {
