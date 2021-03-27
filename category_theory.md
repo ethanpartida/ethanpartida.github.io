@@ -1,6 +1,6 @@
 ---
 layout: default
-title: category_theory
+title: Category Theory
 ---
 <script language="javascript">
     function cat1() {
@@ -34,8 +34,8 @@ title: category_theory
      <area target="_blank" alt="Go Back" title="Go Back" nohref coords="98,597,18,531" shape="rect" onClick="home()">
 </map>
 
-## Category Theory
-___
+# Category Theory
+
 
 Over the spring semester of 2020 I had the
 pleasure of reading "An Invitation to Applied Category Theory" by [Fong and Spivak](arXiv:1803.05316) through
