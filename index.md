@@ -11,9 +11,12 @@ title: Home
 <ul>
  <li><strong>Status</strong>: Undergraduate Student</li>
  <li><strong>Majors</strong>: Mathematics and Computer Science</li>
+
  <li><strong>CV</strong>: <a href="/cv.pdf">PDF</a></li>
+
+ <li><strong>CV</strong>: <a href="https://docs.google.com/document/d/1LdWcbtoye2G30gCusoaiZ-Er1U-grIYnlRyexpxu6PM/edit?usp=sharing">Current</a> (<a href="/cv.pdf">PDF</a>)</li>
+
  <li><strong>Email</strong>: parti023 (at) umn (dot) edu <br></li>
- <li><strong>Phone</strong>: 612 393 5470</li>
 </ul>
 </div>
 </div>
@@ -26,8 +29,6 @@ I also enjoy creating over-engineered solutions to computer *"problems"*. Exampl
 Some things I'd Like to learn more about are: cryptography, algebraic geometry, Erhart polynomials, and geology.
 
 ## Personal Interests
-
-
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
 <div style="display: inline-block;">
 <p>
