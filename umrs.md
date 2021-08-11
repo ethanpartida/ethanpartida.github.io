@@ -5,7 +5,7 @@ title: Undergraduate Math Research Seminar
 #  Undergraduate Math Research Seminar
 
 * **Mailing List**: https://forms.gle/jvzSj5vj1n6g6TSj7
-* **When**: TBD
+* **When**: <a href="https://www.when2meet.com/?12465894-SZMJT">When2Meet</a>
 * **Where**: TBD
 * **Snacks**: Hopefully
 
