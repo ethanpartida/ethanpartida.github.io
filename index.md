@@ -11,15 +11,7 @@ title: Home
 <ul>
  <li><strong>Status</strong>: Undergraduate Student</li>
  <li><strong>Majors</strong>: Mathematics and Computer Science</li>
-<<<<<<< HEAD
-
  <li><strong>CV</strong>: <a href="/cv.pdf">PDF</a></li>
-
- <li><strong>CV</strong>: <a href="https://docs.google.com/document/d/1LdWcbtoye2G30gCusoaiZ-Er1U-grIYnlRyexpxu6PM/edit?usp=sharing">Current</a> (<a href="/cv.pdf">PDF</a>)</li>
-
-=======
- <li><strong>CV</strong>: <a href="/cv.pdf">PDF</a></li>
->>>>>>> ac9dec871a2f3ff1362d03db5b5bdaad6716ed33
  <li><strong>Email</strong>: parti023 (at) umn (dot) edu <br></li>
 </ul>
 </div>
