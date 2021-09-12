@@ -4,7 +4,7 @@ title: Undergraduate Math Research Seminar
 ---
 #  Undergraduate Math Research Seminar
 
-* **Mailing List**: https://forms.gle/jvzSj5vj1n6g6TSj7
+* **Mailing List**: <a href="https://forms.gle/jvzSj5vj1n6g6TSj7">https://forms.gle/jvzSj5vj1n6g6TSj7</a>
 * **When**: Thursdays 2:30pm
 * **Where**: Vincent 215
 
