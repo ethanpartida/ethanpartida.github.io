@@ -31,7 +31,5 @@ I like to balance out my mostly stationary academic life by being outdoors as mu
 </p>
 </div>
 <div style="margin-left: 10px;"><p><img src="IMG_1002.JPG" border="1px"></p></div>
-</div>
-</div>
 <div style="margin-left: 10px;"><p><img src="IMG_3934.jpg" border="1px"></p></div>
 </div>
