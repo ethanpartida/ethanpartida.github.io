@@ -30,10 +30,10 @@ Some things I'd Like to learn more about are: Algebraic Geometry, Symmetric Func
 I like to balance out my mostly stationary academic life by being outdoors as much as possible. As of late this has been through rock climbing and hiking (to rock climbing). I'm always looking for more partners so let me know if you would like to go cragging.
 </p>
 <div class="row">
-  <div class="column">
-    <img src="IMG_1002.JPG" alt="Boulder" style="width:50%">
+  <div class="column",float: left, padding: 5px>
+    <img src="IMG_1002.JPG" alt="Boulder" style="width:40%">
   </div>
-  <div class="column">
-    <img src="IMG_3934.jpg" alt="Sport Climb" style="width:50%">
+  <div class="column", float: left, padding: 5px>
+    <img src="IMG_3934.jpg" alt="Sport Climb" style="width:40%">
   </div>
 </div> 
