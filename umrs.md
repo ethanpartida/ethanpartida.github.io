@@ -7,7 +7,7 @@ title: Undergraduate Math Research Seminar
 * **Mailing List**: <a href="https://forms.gle/jvzSj5vj1n6g6TSj7">https://forms.gle/jvzSj5vj1n6g6TSj7</a>
 * **When**: Mondays 1:15-2:15, starting January 31st
 * **Where**: Vincent Hall 215
-* **Organizers**: Harper Niergarth (nierg001 AT umn.edu), Ethan Partida (parti023 AT umn.edu)
+* **Organizers**: Ethan (parti023 AT umn.edu), Gabi (torre565 AT umn.edu), Harper (nierg001 AT umn.edu)
 
 The Undergraduate Math Research Seminar (UMRS) is a seminar aimed to create a welcoming undergraduate research community at UMN. We will have opportunities for students to give low-stakes talks on the research and reading they've done as well as hold sessions devoted to learning what research is like, the different areas of math research and how to create research presentations. If you'd like to be updated on the seminar, see the mailing list above. To see the 2021-2020 schedule see <a href="https://themodularperspective.com/outreach-spring-2021/">here</a>, and the 2019-2020 schedule <a href="https://sites.google.com/umn.edu/umrsfall2019/home">here</a>.
 
