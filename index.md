@@ -31,9 +31,9 @@ I like to balance out my mostly stationary academic life by being outdoors as mu
 </p>
 <div class="row">
   <div class="column">
-    <img src="1022.JPG" alt="Boulder" style="width:100%">
+    <img src="IMG_1022.JPG" alt="Boulder" style="width:100%">
   </div>
   <div class="column">
-    <img src="3934.jpg" alt="Sport Climb" style="width:100%">
+    <img src="IMG_3934.jpg" alt="Sport Climb" style="width:100%">
   </div>
 </div> 
