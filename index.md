@@ -22,7 +22,7 @@ I'm currently a math Ph.D. student at Brown University. I am interested in combi
 
 I also enjoy creating over-engineered solutions to computer *"problems"*. Examples include: a fidget spinner IOT controller, smart mirror, and a terrible machine learning cribbage bot.
 
-Some things I'd like to learn more about are: toric varities, representation theory and geology.
+Some things I'd like to learn more about are: toric varieties, representation theory and geology.
 ## Personal Interests
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
 <div style="display: inline-block;">
