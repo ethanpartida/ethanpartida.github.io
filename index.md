@@ -6,7 +6,7 @@ title: Home
 <center> <h1>  Ethan Partida </h1> </center>
 ---
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-<div style="margin-left: 10px;"><p><img src="/ceramic_photo.jpg" height="182px" width="274px" border="1px"></p></div>
+<div style="margin-left: 10px;"><p><img src="/ceramic_photo.jpeg" height="182px" width="274px" border="1px"></p></div>
 <div>
 <ul>
  <li><strong>Status</strong>: Graduate Student</li>
