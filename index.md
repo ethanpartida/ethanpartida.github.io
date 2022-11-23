@@ -18,7 +18,7 @@ title: Home
 </div>
 
 ## Academics
-I'm currently a math Ph.D. student at Brown University. I am interested in combinatorics and its connection to algebraic topology. Things I have been interested in lately are: matroids, polytopes and Stanley-Reisner rings.
+I'm  currently a math Ph.D. student at Brown University. I am interested in combinatorics and its connection to algebraic topology. Things I have been interested in lately are: matroids, polytopes and Stanley-Reisner rings.
 
 I also enjoy creating over-engineered solutions to computer *"problems"*. Examples include: a fidget spinner IOT controller, smart mirror, and a terrible machine learning cribbage bot.
 
