@@ -1,4 +1,4 @@
-- name: Home
+- name: Ethan Partida
   link: /
 
 - name: Publications
@@ -7,10 +7,10 @@
 - name: Presentations
   link: /presentation.html
 
-- name: UMRS
-  link: /umrs.html
+#- name: UMRS
+#  link: /umrs.html
 
-- name: Miscellaneous
-  link: /misc.html
+#- name: Miscellaneous
+#  link: /misc.html
   
   

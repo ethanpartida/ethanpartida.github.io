@@ -66,11 +66,11 @@ objects, x and y, we specify a set hom(x,y), called the morphisms for
 x to y. This can be thought of
 as a set of functions from x to y except, you guessed it, much more
 *general*. Sometimes if we want to talk about a specific f in hom(x,y), we simply write the familiar f:x->y. There also has to be some notion of an identity morphisms
-and compositions of morphisms, but these are tangental from the main
+and compositions of morphisms, but these are tangential from the main
 idea of a category.
 
-Of course, all these defintions and words make little sense without
-examples. The framework of a category is incredibly versitile and can
+Of course, all these definitions and words make little sense without
+examples. The framework of a category is incredibly versatile and can
 encapsulate pretty much any mathematical idea. Try clicking around
 below to see what is hiding inside these three different categories.
 <br>
@@ -89,10 +89,10 @@ the idea of functors really great.
 <br>
 As we can see, there are two categories, C and D. C has objects a and b
 with a morphism f:a->b. Our functor, F, sends a->F(a), b->F(b), and
-f->F(f). Importantly, F perserved our morphisims in C and mapped them
+f->F(f). Importantly, F preserved our morphisims in C and mapped them
 to D. In other words, f:a->b in C implies that there exists an
 F(f):F(a)->F(b). This notion is very important to functors and helps
-them perserve cool ideas that are the foundations of cateogry theory.
+them preserve cool ideas that are the foundations of category theory.
 
 
 
