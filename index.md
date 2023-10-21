@@ -17,7 +17,7 @@ title: Home
 </div>
 
 ## Academics
-I'm a second year mathematics Ph.D. student at Brown University advised by <a href="https://www.math.brown.edu/mchan2/">Melody Chan</a> and <a href="https://www.dam.brown.edu/people/cklivans/">Caroline Klivans</a>. I am interested in combinatorics and its connection to algebraic geometry. Things I have been interested in lately are: matroids, toric varieties and Stanley--Reisner rings.
+I'm a second year mathematics Ph.D. student at Brown University advised by <a href="https://www.math.brown.edu/mchan2/">Melody Chan</a> and <a href="https://www.dam.brown.edu/people/cklivans/">Caroline Klivans</a>. I am interested in combinatorics and its connection to algebraic geometry. Things I have been interested in lately are: matroids, shifted simplicial complexes and Stanley--Reisner rings.
 
 Prior, I graduated from the University of Minnesota with BS degrees in mathematics and computer science. 
 
