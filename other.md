@@ -2,7 +2,7 @@
 layout: default
 title: Misc.
 ---
-# <h1 style="color: #4a6459;">Bobs and Bits</h1>
+# <span style="color:#4a6459">Bobs and Bits</span>
 
 ## Code
 I often write code to work on math projects. Below are some links:
