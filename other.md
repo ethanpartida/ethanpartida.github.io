@@ -6,8 +6,7 @@ title: Misc.
 
 ## Code
 I often write code to work on math projects. Below are some links:
-* <dt><a href="https://github.com/ethanpartida/Conormal">Conromal Complexex and Rings</a></dt> 
-<dd> 
+* <dt><a href="https://github.com/ethanpartida/Conormal">Conromal Complexex and Rings</a></dt> <dd> 
 This code computes the conormal complex and ring of a matroid. It also provides tools to work the building blocks of these objects, the biflats and biflags of a matroid.
 </dd>
 
