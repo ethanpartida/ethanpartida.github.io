@@ -2,9 +2,11 @@
 layout: default
 title: Publications
 ---
-# Publications
+# Papers
 
 Here are my publications/preprints and links to them:
+
+* <dt><a href="https://arxiv.org/abs/2408.07810">Shifted and Threshold Matroids</a></dt> <dd>We characterize the class of threshold matroids by the structure of their defining bases. We also give an example of a shifted matroid which is not threshold, answering a question of Deza and Onn. We conclude by exploring consequences of our characterization of threshold matroids: We give a formula for the number of isomorphism classes of threshold matroids on a groundset of size n. This enumeration shows that almost all shifted matroids are not threshold. We also present a polynomial time algorithm to check if a matroid is threshold and provide alternative and simplified proofs of some of the main results of Deza and Onn. </dd>
 
 * <dt><a href="https://arxiv.org/abs/2310.12291">On the topology of conormal complexes and posets of matroids</a></dt> <dd>We introduce the poset of biflats of a matroid M, a Lagrangian analog of the lattice of flats of M, and study the topology of its order complex, which we call the biflats complex. This work continues the study of the Lagrangian combinatorics of matroids, which was recently initiated by work of Ardila, Denham and Huh. We show the biflats complex contains two distinguished subcomplexes: the conormal complex of M and the simplicial join of the Bergman complexes of M and M*, the matroidal dual of M. Our main theorems give sequences of elementary collapses of the biflats complex onto the conormal complex and the join of the Bergman complexes of M and M*. These collapses give a combinatorial proof that the biflats complex, conormal complex and the join of the Bergman complexes of M and M* are all simple homotopy equivalent. Although simple homotopy equivalent, these complexes have many different combinatorial properties. We collect and prove a list of such properties.</dd>
 
