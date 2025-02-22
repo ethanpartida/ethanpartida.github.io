@@ -10,7 +10,7 @@ title: Home
 <div>
 <ul>
  <li><strong>Status</strong>: Mathematics Ph.D. Student</li>
- <li><strong>CV</strong>: <a href="/cv.pdf">November 2023</a></li>
+ <li><strong>CV</strong>: <a href="/cv.pdf">February 2025</a></li>
  <li><strong>Email</strong>: ethan_partida [at] brown [dot] edu <br></li>
 </ul>
 </div>
