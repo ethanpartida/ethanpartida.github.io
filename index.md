@@ -17,11 +17,20 @@ title: Home
 </div>
 
 ## Academics
-I'm a fourth year mathematics Ph.D. student at Brown University advised by <a href="https://www.math.brown.edu/mchan2/">Melody Chan</a> and <a href="https://www.dam.brown.edu/people/cklivans/">Caroline Klivans</a>. I am interested in combinatorics and its connection to algebraic geometry. Things I have been interested in lately are: matroids, brick varieties and toric varieties.
+I'm a fourth year mathematics Ph.D. student at Brown University advised by <a href="https://www.math.brown.edu/mchan2/">Melody Chan</a> and <a href="https://www.dam.brown.edu/people/cklivans/">Caroline Klivans</a>. I am interested in algebraic combinatorics and its connection to algebraic geometry. Things I have been interested in lately are: matroids, Ehrhart theory and algebraic cobordism. 
 
 Prior, I graduated from the University of Minnesota with BS degrees in mathematics and computer science. 
 
 Some things I'd like to learn more about are: tropical geometry, representation theory and geology.
+
+## Activities
+### 2026
+* April 22: Speaking at the <a href="https://sites.google.com/view/gocc-combinatorics">Graduate Online Combinatorics Colloquium</a>.
+* March 28-29: Organizing the <a href="https://www.ams.org/meetings/sectional/2331_program_ss18.html#title">Special Session on Group Actions and Combinatorics in Algebraic Geometry and Commutative Algebra</a> at the 2026 AMS Spring Eastern Sectional Meeting.
+* March 5: Speaking at the <a href="https://combinatoricsseminar.math.umn.edu/">University of Minnesota Combinatorics Seminar</a>.
+* March 4: Speaking at the <a href="https://sites.google.com/umn.edu/umn-scas-seminar/home">Univeristy of Minnesota Student Combinatorics and Algebra Seminar</a>.
+* Febuary 2: Speaking at the <a href="https://sites.google.com/brown.edu/combo/home">Brown Combinatorics Seminar</a>.
+* January 23-25: Attending and speaking at <a href="https://sites.google.com/view/caac26/home?authuser=0">CAAC</a> at Dalhousie University.
 
 ## Personal Interests
 
