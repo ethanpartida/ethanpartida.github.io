@@ -6,7 +6,17 @@ title: Publications
 
 Here are my publications/preprints and links to them:
 
-* * <dt><a href="https://arxiv.org/abs/2310.12291">Line Shellings of Geometric Lattices</a> (with <a href="https://www.uvm.edu/~sbackman/">Spencer Backman</a>, <a href="https://galen.dorpalen-barry.org/">Galen Dorpalen-Barry</a>, <a href="https://sites.google.com/view/anastasianathanson/home">Anastasia Nathanson</a> and Noah Prime)</dt> <dd> To appear in SIAM J. Discrete Math </dd>
+* <dt>Algebraic Cobordism of Wonderful Varieties and Matroids (with <a href="https://rajgandhi97.github.io/">Raj Gandhi</a>)</dt> <dd>FPSAC abstract avaliable upon request</dd>
+<dd>
+ We prove a Feichtner-Yuzvinsky presentation and a simplicial presentation for the algebraic cobordism ring $\Omega^*(M)$ of the toric variety of the Bergman fan of any loopless matroid $M$. As a consequence of our simplicial presentation, we obtain a ring isomorphism $\Omega^*(M) \simeq CH^*(M) \otimes \Omega^*(pt)$. This isomorphism generalizes, in part, the exceptional integral-isomorphism between the Chow ring and K-ring of a matroid, studied in the recent works of Berget--Eur--Spink--Tseng and Larson--Li--Payne--Proudfoot. For a complex hyperplane arrangement $H$, we prove that the algebraic cobordism ring of the wonderful variety $W_H$ of $H$ and the algebraic cobordism ring of the toric variety of the matroid underlying $H$ are isomorphic, and that both rings coincide with the complex cobordism ring of $W_H$.
+</dd>
+
+* <dt>Graded Ehrhart Theory of Unimodular Zonotopes (with <a href="https://sites.google.com/view/colincrowley/home">Colin Crowley</a>)</dt><dd>FPSAC abstract avaliable upon request</dd>
+<dd>
+ Graded Ehrhart theory is a new $q$-analogue of Ehrhart theory based on the orbit harmonics method. We study the graded Ehrhart theory of unimodular zonotopes from a matroid-theoretic perspective. Generalizing a result of Stanley (1991), we prove that the graded lattice point count of a unimodular zonotope is a q-evaluation of its Tutte polynomial. We conclude that the graded Ehrhart series of a unimodular zonotope is rational and obeys graded Ehrhart--Macdonald reciprocity. In an algebraic direction, we prove that the harmonic algebra of a unimodular zonotope is a coordinate ring of its associated arrangement Schubert variety. Using the geometry of arrangement Schubert varieties, we prove that the harmonic algebra of a unimodular zonotope is finitely generated and Cohen--Macaulay. We also give an explicit presentation of the harmonic algebra of a unimodular zonotope in terms of generators and relations. We conclude by classifying which unimodular zonotopes have Gorenstein harmonic algebras. Our work answers, in the special case of unimodular zonotopes, two conjectures of Reiner and Rhoades (2024).
+</dd>
+
+* <dt><a href="https://arxiv.org/abs/2310.12291">Line Shellings of Geometric Lattices</a> (with <a href="https://www.uvm.edu/~sbackman/">Spencer Backman</a>, <a href="https://galen.dorpalen-barry.org/">Galen Dorpalen-Barry</a>, <a href="https://sites.google.com/view/anastasianathanson/home">Anastasia Nathanson</a> and Noah Prime)</dt>
 <dd>Inspired by Bruggesser-Mani's line shellings of polytopes, we introduce line shellings for the lattice of flats of a matroid: given a normal complex for a Bergman fan of a matroid induced by a building set, we show that the lexicographic order of the coordinates of its vertices is a shelling order. This gives a new proof of Björner's classical result that the order complex of the lattice of flats of a matroid is shellable, and demonstrates shellability for all nested set complexes for matroids. </dd>
 
 * <dt><a href="https://arxiv.org/abs/2408.07810">Shifted and Threshold Matroids</a></dt><dd>
