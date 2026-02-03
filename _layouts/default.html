@@ -7,7 +7,14 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
-    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-svg.js"></script>
+    <script>
+        MathJax = {
+          tex: {
+            inlineMath: {'[+]': [['$', '$']]}
+          }
+        };
+    </script>
+    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js"></script>
   </head>
   <nav>
     <div class="sidenav">
