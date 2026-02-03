@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 ---
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
 # Papers
 
 Here are my publications/preprints and links to them:
