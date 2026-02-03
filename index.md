@@ -6,7 +6,7 @@ title: Home
 ---
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-<div style="margin-left: 10px;"><p><img src="/ober.jpg" height="300em" width="auto" border="1px"></p></div>
+<div style="margin-left: 10px;"><p><img src="/ober.jpeg" height="300em" width="auto" border="1px"></p></div>
 <div>
 <ul>
  <li><strong>Status</strong>: Mathematics Ph.D. Student</li>
