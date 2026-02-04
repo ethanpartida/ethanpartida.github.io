@@ -6,9 +6,9 @@ title: Publications
 
 Here are my publications/preprints and links to them:
 
-* <dt>Algebraic Cobordism of Wonderful Varieties and Matroids (with <a href="https://rajgandhi97.github.io/">Raj Gandhi</a>)</dt> <dd>FPSAC abstract avaliable upon request</dd>
+* <dt>Algebraic Cobordism rings of Wonderful Varieties and Matroids (with <a href="https://rajgandhi97.github.io/">Raj Gandhi</a>)</dt> <dd>FPSAC abstract avaliable upon request</dd>
 <dd>
- We prove a Feichtner-Yuzvinsky presentation and a simplicial presentation for the algebraic cobordism ring $\Omega^*(M)$ of the toric variety of the Bergman fan of any loopless matroid $M$. As a consequence of our simplicial presentation, we obtain a ring isomorphism $\Omega^*(M) \simeq CH^*(M) \otimes \Omega^*(pt)$. This isomorphism generalizes, in part, the exceptional integral-isomorphism between the Chow ring and K-ring of a matroid, studied in the recent works of Berget--Eur--Spink--Tseng and Larson--Li--Payne--Proudfoot. If $M$ is the matroid of a complex hyperplane arrangement $H$, we prove that the algebraic cobordism ring of the wonderful variety $W_H$ of $H$ is isomorphic to $\Omega^*(M)$. In this case, both rings coincide with the complex cobordism ring of $W_H$.
+ We prove a Feichtner-Yuzvinsky presentation and a simplicial presentation for the algebraic cobordism ring $\Omega^*(M)$ of the toric variety of the Bergman fan of any loopless matroid $M$. As a consequence of our simplicial presentation, we obtain a ring isomorphism $\Omega^*(M) \simeq CH^*(M) \otimes \Omega^*(pt)$ where $\Omega^*(pt)$ is the algebraic cobordism ring of a point. This isomorphism generalizes, in part, the exceptional integral-isomorphism between the Chow ring and K-ring of a matroid, studied in the recent works of Berget--Eur--Spink--Tseng and Larson--Li--Payne--Proudfoot. If $M$ is the matroid of a complex hyperplane arrangement $H$, we prove that the algebraic cobordism ring of the wonderful variety $W_H$ of $H$ is isomorphic to $\Omega^*(M)$. In this case, both rings coincide with the complex cobordism ring of $W_H$.
 </dd>
 
 * <dt>Graded Ehrhart Theory of Unimodular Zonotopes (with <a href="https://sites.google.com/view/colincrowley/home">Colin Crowley</a>)</dt><dd>FPSAC abstract avaliable upon request</dd>
