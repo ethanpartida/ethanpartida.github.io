@@ -6,6 +6,10 @@ title: Publications
 
 Here are my publications/preprints and links to them:
 
+
+* <dt><a href="https://arxiv.org/abs/2604.21925">Hodge theory for combinatorial projective bundles</a> (with <a href="https://mattlarson2399.github.io">Matt Larson</a>)</dt><dd>
+<dd>We prove the Hard Lefschetz theorem and Hodge-Riemann relations for certain rings which resemble the cohomology rings of projectivizations of globally generated vector bundles over toric varieties. This proves new cases of the standard conjecture of Hodge type and gives Bloch-Gieseker-type results for tautological classes of matroids.</dd>
+
 * <dt>Algebraic Cobordism rings of Wonderful Varieties and Matroids (with <a href="https://rajgandhi97.github.io/">Raj Gandhi</a>)</dt> <dd><a href="/Algebraic_cobordism_rings_of_wonderful_varieties_and_matroids.pdf">FPSAC 2026 abstract</a></dd>
 <dd>
  We prove a Feichtner-Yuzvinsky presentation and a simplicial presentation for the algebraic cobordism ring $\Omega^*(M)$ of the toric variety of the Bergman fan of any loopless matroid $M$. As a consequence of our simplicial presentation, we obtain a ring isomorphism $\Omega^*(M) \simeq CH^*(M) \otimes \Omega^*(pt)$ where $CH^*(M)$ is the Chow ring of $M$ and $\Omega^*(pt)$ is the algebraic cobordism ring of a point. This isomorphism generalizes, in part, the exceptional integral-isomorphism between the Chow ring and K-ring of a matroid, studied in the recent works of Berget--Eur--Spink--Tseng and Larson--Li--Payne--Proudfoot. If $M$ is the matroid of a complex hyperplane arrangement $H$, we prove that the algebraic cobordism ring of the wonderful variety $W_H$ of $H$ is isomorphic to $\Omega^*(M)$. In this case, both rings coincide with the complex cobordism ring of $W_H$.
