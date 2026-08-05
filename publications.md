@@ -6,6 +6,8 @@ title: Publications
 
 Here are my publications/preprints and links to them:
 
+* <dt><a href="https://arxiv.org/abs/2608.03806">The Chow Polynomial of the Noncrossing Partition Lattice</a> (with Joseph Chun, Natsuka Hayashida, and Zhixing Wang)</dt><dd>
+<dd>We prove that the Chow polynomial of the noncrossing partition lattice is equal to the descent generating function of tieless parking functions. As a consequence, we obtain new results on the descent statistic for parking functions.</dd>
 
 * <dt><a href="https://arxiv.org/abs/2604.21925">Hodge theory for combinatorial projective bundles</a> (with <a href="https://mattlarson2399.github.io">Matt Larson</a>)</dt><dd>
 <dd>We prove the Hard Lefschetz theorem and Hodge-Riemann relations for certain rings which resemble the cohomology rings of projectivizations of globally generated vector bundles over toric varieties. This proves new cases of the standard conjecture of Hodge type and gives Bloch-Gieseker-type results for tautological classes of matroids.</dd>
