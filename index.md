@@ -17,12 +17,20 @@ title: Home
 </div>
 
 ## Academics
-I'm a fourth year mathematics Ph.D. student at Brown University advised by <a href="https://www.math.brown.edu/mchan2/">Melody Chan</a> and <a href="https://www.dam.brown.edu/people/cklivans/">Caroline Klivans</a>. I am interested in algebraic combinatorics and its connection to algebraic, convex and tropical geometry. Matroids are a recurring character in my research.  
+I'm a fifth year mathematics Ph.D. student at Brown University advised by <a href="https://www.math.brown.edu/mchan2/">Melody Chan</a> and <a href="https://www.dam.brown.edu/people/cklivans/">Caroline Klivans</a>. I am interested in algebraic combinatorics and its connection to algebraic, convex and tropical geometry. Matroids are a recurring character in my research. I am applying for postdoctoral research positions this fall (2026).
 
 Prior, I graduated from the University of Minnesota with BS degrees in mathematics and computer science. 
 
 ## Activities
 ### 2026
+* December 9: Speaking at the <a href="https://math.washington.edu/events/series/combinatorics-and-geometry-seminar">University of Washington Combinatorics and Geometry Seminar</a>.
+* December 2: Speaking at the <a href="https://math.berkeley.edu/~jyh/combinatorics_seminar_f26.html">UC Berkeley Combinatorics Seminar</a>.
+* October 24-25: Attending and speaking at the <a href="https://www.ams.org/meetings/sectional/2333_program_ss13.html#title">Special Session on Algebraic and Geometric Aspects of Matroid Theory</a> at the 2026 AMS Fall Central Sectional Meeting.
+* October 20: Speaking at the <a href="https://math.dartmouth.edu/~comb/">Dartmouth Combinatorics Seminar</a>.
+* October 9: Speaking at the <a href="https://seminars.math.toronto.edu/pages/seminars">University of Toronto Combinatorics Seminar</a>.
+* October 7: Speaking at the <a href="https://sites.google.com/ncsu.edu/algebracombinatoricsseminar/home">North Carolina State University Algebra and Combinatorics Seminar</a>.
+* September 28-October 2: Attending and giving a lightning talk at the <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5623">Algebra and Geometry of Matroids Workshop</a> at Casa Matemática Oaxaca.
+* September 16: Speaking at the <a href="https://math.mit.edu/combin/">MIT/Harvard Richard P. Stanley Seminar in Combinatorics</a>.
 * July 13-17: Presenting a poster at <a href="https://sites.math.washington.edu/fpsac2026/">FPSAC</a> hosted at the University of Washington.
 * April 30: Speaking at the <a href="https://pages.uoregon.edu/crowley/combosem/combo-sem.html">University of Oregon Combinatorics Seminar</a>.
 * April 22: Speaking at the <a href="https://sites.google.com/view/gocc-combinatorics">Graduate Online Combinatorics Colloquium</a>.
