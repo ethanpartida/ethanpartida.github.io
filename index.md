@@ -25,6 +25,7 @@ Prior, I graduated from the University of Minnesota with BS degrees in mathemati
 ### 2026
 * December 9: Speaking at the <a href="https://math.washington.edu/events/series/combinatorics-and-geometry-seminar">University of Washington Combinatorics and Geometry Seminar</a>.
 * December 2: Speaking at the <a href="https://math.berkeley.edu/~jyh/combinatorics_seminar_f26.html">UC Berkeley Combinatorics Seminar</a>.
+* November 30: Speaking at the <a href="https://www.math.ucdavis.edu/research/seminars">UC Davis Algebra & Discrete Mathematics Seminar</a>.
 * October 24-25: Attending and speaking at the <a href="https://www.ams.org/meetings/sectional/2333_program_ss13.html#title">Special Session on Algebraic and Geometric Aspects of Matroid Theory</a> at the 2026 AMS Fall Central Sectional Meeting.
 * October 20: Speaking at the <a href="https://math.dartmouth.edu/~comb/">Dartmouth Combinatorics Seminar</a>.
 * October 9: Speaking at the <a href="https://seminars.math.toronto.edu/pages/seminars">University of Toronto Combinatorics Seminar</a>.
